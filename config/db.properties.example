@@ -1,0 +1,3 @@
+   db.url=jdbc:mysql://localhost:3306/estoque_db
+   db.user=estoque_user
+   db.password=SUA_SENHA_AQUI
